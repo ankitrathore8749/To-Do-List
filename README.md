@@ -18,6 +18,13 @@ A responsive To-Do List web app built using HTML, CSS, and JavaScript. Allows us
 - CSS3
 - JavaScript
 
+## 🙌 Author
+*Ankit Rathore*  
+📧 [ankitrathore8749@gmail.com] 
+
+## 📌 License
+This project is open source and available under the [MIT License](LICENSE).
+
 ## 📂 Project Structur
 todo-list/
 ├── assets/
