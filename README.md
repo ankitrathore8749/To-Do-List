@@ -1,17 +1,17 @@
-# To-Do-List
+# 📝 To-Do-List
 A responsive To-Do List web app built using HTML, CSS, and JavaScript. Allows users to add, complete, and delete tasks with a clean and interactive UI.
-
-## 🚀 Features
-- ✅ Add new tasks
-- 🗑 Delete tasks
-- ✔ Mark tasks as completed
-- 📱 Responsive design (works well on mobile & desktop)
 
 ## 🌐 Live Demo
 [Click here to view the website]( https://ankitrathore8749.github.io/To-Do-List/)
 
 ## 📸 Screenshot
 [To-Do List Screenshot](assets/Images/screenshot.png)
+
+## 🚀 Features
+- ✅ Add new tasks
+- 🗑 Delete tasks
+- ✔ Mark tasks as completed
+- 📱 Responsive design (works well on mobile & desktop)
 
 ## 🛠 Built With
 - HTML5
