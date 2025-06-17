@@ -25,7 +25,7 @@ A responsive To-Do List web app built using HTML, CSS, and JavaScript. Allows us
 ## 📌 License
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📂 Project Structur
+## 📂 Project Structure
 todo-list/
 ├── assets/
 │   ├── css/
